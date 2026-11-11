@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SwipeFoto</string>
+    <string name="header_subtitle">Fotos y Videos · Limpieza Inteligente</string>
+    <string name="stamp_keep">QUEDAR</string>
+    <string name="stamp_keep_sub">CONSERVAR</string>
+    <string name="stamp_discard">ELIMINAR</string>
+    <string name="stamp_discard_sub">PAPELERA</string>
+    <string name="action_keep">Conservar</string>
+    <string name="action_discard">Eliminar</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="action_reset">Volver al inicio</string>
+    <string name="stat_kept_label">Conservados</string>
+    <string name="stat_discarded_label">Por eliminar</string>
+    <string name="stat_remaining_label">Restantes</string>
+    <string name="empty_title">Verificación antes de eliminar</string>
+    <string name="empty_subtitle">Revisa las fotos y videos que vas a borrar. Toca «Salvar» en cualquiera que quieras conservar antes de confirmar.</string>
+    <string name="retention_rate_label">Espacio por liberar</string>
+    <string name="tab_kept">Conservados (%1$d)</string>
+    <string name="tab_discarded">Por eliminar (%1$d)</string>
+    <string name="no_photos_in_tab">No hay archivos multimedia en esta lista</string>
+    <string name="restore_photo_cd">Quitar de la lista de eliminación</string>
+    <string name="swipe_hint">Derecha: conservar · Izquierda: agregar a cola de eliminación</string>
+    <string name="progress_format">%1$d / %2$d</string>
+    <string name="welcome_badge">ESCANEO REAL DE FOTOS Y VIDEOS</string>
+    <string name="welcome_title">Libera espacio real de tu galería con un gesto</string>
+    <string name="welcome_subtitle">Detecta automáticamente tus carpetas de fotos y videos, desliza para clasificar, desbloquea 100 logros y confirma qué borrar con seguridad.</string>
+    <string name="welcome_cta_start">Analizar carpetas del teléfono</string>
+    <string name="welcome_cta_permission">Permitir acceso a Fotos y Videos</string>
+    <string name="folders_title">Carpetas Multimedia</string>
+    <string name="folders_subtitle">Detectadas automáticamente en tu dispositivo</string>
+    <string name="folders_select_all">Todas</string>
+    <string name="folders_deselect_all">Ninguna</string>
+    <string name="confirm_dialog_title">¿Confirmar eliminación de archivos?</string>
+    <string name="confirm_dialog_confirm">Sí, eliminar y liberar espacio</string>
+    <string name="confirm_dialog_cancel">Seguir revisando</string>
+</resources>

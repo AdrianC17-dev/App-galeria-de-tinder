@@ -1,0 +1,6 @@
+{
+  "name": "SwipeFoto",
+  "description": "Galería interactiva de fotos con tarjetas deslizables (Swipe Cards) para clasificar, conservar o descartar imágenes con gestos fluidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
